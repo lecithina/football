@@ -1,5 +1,4 @@
 
-# 2. Feature Docker File
 # ...
 ARG DOCKER_BASE
 FROM $DOCKER_BASE
